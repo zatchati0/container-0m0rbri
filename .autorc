@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "zatchati0",
+  "repo": "container-0m0rbri",
+  "name": "zatchati0",
+  "email": "zatchati0@gmail.com",
+}
